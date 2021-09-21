@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To do List Digital</string>
+    <string name="tv_title">Tarefa</string>
+    <string name="titulo">Titulo</string>
+    <string name="date">Data</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="cancel">Cancelar</string>
+    <string name="content_nova_tarefa">Nova Tarefa</string>
+    <string name="edit_label">Editar</string>
+    <string name="remove_label">Excluir</string>
+    <string name="lanel_you_dont_have_task">Ops! você não possue nenhuma tarefa</string>
+</resources>
